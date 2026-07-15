@@ -1,1 +1,1 @@
-python3 -c "from EmotionDetection import emotion_detector; print(emotion_detector('I am happy'))"
+from .emotion_detection import emotion_detector
